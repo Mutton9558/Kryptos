@@ -7,7 +7,7 @@ The backend will process it and determine the strength. This extensions runs on 
 Password strength is determined by 4 factors:
 - Use of Uppercase and Lowercase alphabets
 - Use of numbers/digits
-- User of special symbols
+- Use of special symbols
 - Length of password >= 12
 
 # Installation
